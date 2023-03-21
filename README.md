@@ -161,6 +161,6 @@ I would like to thank Microverse Team
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/karanJ2212/math_magicians/blob/9b522455d67f80e5a0a9f1ff565f84a943bd4a0f/LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
