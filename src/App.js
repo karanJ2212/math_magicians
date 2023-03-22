@@ -5,10 +5,12 @@ import React from 'react';
 
 import Calculator from './components/calculator';
 
-class App extends React.Component {
-  render() {
-    return (<Calculator />);
-  }
-}
+const App = () => (
+  <div>
+    return (
+    <Calculator />
+    );
+  </div>
+);
 
 export default App;
