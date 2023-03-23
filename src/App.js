@@ -6,11 +6,7 @@ import React from 'react';
 import Calculator from './components/calculator';
 
 const App = () => (
-  <div>
-    return (
-    <Calculator />
-    );
-  </div>
+  <Calculator />
 );
 
 export default App;
