@@ -3,10 +3,15 @@
 import './App.css';
 import React from 'react';
 
-import Calculator from './components/calculator';
+import Calculator from './components/calculator/calculator';
+import Quote from './components/quotes/quote';
 
 const App = () => (
-  <Calculator />
+  <div className="container">
+    <Quote />
+
+    <Calculator />
+  </div>
 );
 
 export default App;
