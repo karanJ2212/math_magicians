@@ -1,0 +1,8 @@
+.pageContainer {
+  width: 50%;
+  padding: 2% 2%;
+}
+
+.pageContainer p {
+  font-size: 2rem;
+}
