@@ -1,4 +1,4 @@
-import operate from "../../logic/operate";
+import operate from '../../logic/operate';
 
 describe('Test for operate function logic.It takes 2 numbers and operator as argumenet', () => {
   test('Return the sum of two numbers', () => {
