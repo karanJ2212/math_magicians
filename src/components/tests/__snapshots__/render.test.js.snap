@@ -1,0 +1,224 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test if Calculator renders correctly 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="calText"
+  >
+    <h2>
+      Lets do some math
+    </h2>
+  </div>
+  <div
+    className="calculator"
+  >
+    <div
+      className="display-section"
+    >
+      <p
+        className="display-value"
+      >
+        0  
+         
+      </p>
+    </div>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      AC
+    </button>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      +/-
+    </button>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      %
+    </button>
+    <button
+      className="operator"
+      onClick={[Function]}
+      type="button"
+    >
+      ÷
+    </button>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      7
+    </button>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      8
+    </button>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      9
+    </button>
+    <button
+      className="operator"
+      onClick={[Function]}
+      type="button"
+    >
+      x
+    </button>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      4
+    </button>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      5
+    </button>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      6
+    </button>
+    <button
+      className="operator"
+      onClick={[Function]}
+      type="button"
+    >
+      -
+    </button>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      1
+    </button>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      2
+    </button>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      3
+    </button>
+    <button
+      className="operator"
+      onClick={[Function]}
+      type="button"
+    >
+      +
+    </button>
+    <button
+      className="zero"
+      onClick={[Function]}
+      type="button"
+    >
+      0
+    </button>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      .
+    </button>
+    <button
+      className="operator"
+      onClick={[Function]}
+      type="button"
+    >
+      =
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Test if Home renders correctly 1`] = `
+<div>
+  <div
+    className="home"
+  >
+    <h1>
+      Welcome
+    </h1>
+    <div
+      className="desc"
+    >
+      Math Magicians is a website for all fans of mathematics. Make simple calculations and view some of your favorite math quotes!
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Test if Home renders correctly 2`] = `
+<div
+  className="navbar"
+>
+  <h1
+    style={
+      Object {
+        "color": "aliceblue",
+        "fontFamily": "Rubik Vinyl",
+        "fontWeight": "bold",
+      }
+    }
+  >
+    Math Magician
+  </h1>
+  <ul>
+    <li>
+      <a
+        href="/"
+        onClick={[Function]}
+      >
+        home
+      </a>
+    </li>
+    <li>
+      <a
+        href="/calculator"
+        onClick={[Function]}
+      >
+        calculator
+      </a>
+    </li>
+    <li>
+      <a
+        href="/quote"
+        onClick={[Function]}
+      >
+        quote
+      </a>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Test if Quote renders correctly 1`] = `
+<div
+  className=" pageContainer"
+>
+  <p
+    style={
+      Object {
+        "fontFamily": "Tangerine",
+      }
+    }
+  />
+</div>
+`;
